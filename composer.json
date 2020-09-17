@@ -3,7 +3,7 @@
   "description": "Allows to add product to cart by specifying SKU only from widget.",
   "license": "MIT",
   "require": {
-    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2|~7.3|~7.4"
   },
   "suggest": {
     "magento/framework": "You must require magento framework in your project."
