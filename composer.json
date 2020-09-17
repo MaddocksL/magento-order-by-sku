@@ -1,5 +1,5 @@
 {
-  "name": "liip/magento-order-by-sku",
+  "name": "maddocksl/magento-order-by-sku",
   "description": "Allows to add product to cart by specifying SKU only from widget.",
   "license": "MIT",
   "require": {
